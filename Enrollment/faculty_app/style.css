@@ -1,0 +1,39 @@
+#main_title{
+    text-align: center;
+    background-color: rgb(9, 9, 177);
+    color: white;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+.box1 h2{
+    float: left;
+}
+
+.box1 button{
+    float: left;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+h6{
+    text-align: center;
+    color: red;
+}
+
+.back-link {
+    font-size: 18px;
+    color: #007BFF;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #eff1f5;        
+    float: right;
+}
+
+.back-link:hover {
+    background-color: #eef0f1;
+}
+    
